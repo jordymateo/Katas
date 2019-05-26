@@ -1,0 +1,11 @@
+D:\Projects\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.2\StringCalculator.deps.json
+D:\Projects\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.2\StringCalculator.runtimeconfig.json
+D:\Projects\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.2\StringCalculator.runtimeconfig.dev.json
+D:\Projects\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.2\StringCalculator.dll
+D:\Projects\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.2\StringCalculator.pdb
+D:\Projects\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.2\StringCalculator.csprojAssemblyReference.cache
+D:\Projects\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.2\StringCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.2\StringCalculator.AssemblyInfoInputs.cache
+D:\Projects\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.2\StringCalculator.AssemblyInfo.cs
+D:\Projects\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.2\StringCalculator.dll
+D:\Projects\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.2\StringCalculator.pdb
